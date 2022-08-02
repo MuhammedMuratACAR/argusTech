@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FluentValidation.AspNetCore" Version="11.1.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\argusTech.DataAccess\argusTech.DataAccess.csproj" />
+    <ProjectReference Include="..\argusTech.DTO\argusTech.DTO.csproj" />
+    <ProjectReference Include="..\argusTech.Entities\argusTech.Entities.csproj" />
+  </ItemGroup>
+
+</Project>

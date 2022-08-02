@@ -1,0 +1,9 @@
+C:\Users\acarm\source\repos\argusTech\argusTech.DTO\bin\Debug\netcoreapp3.1\argusTech.DTO.deps.json
+C:\Users\acarm\source\repos\argusTech\argusTech.DTO\bin\Debug\netcoreapp3.1\argusTech.DTO.dll
+C:\Users\acarm\source\repos\argusTech\argusTech.DTO\bin\Debug\netcoreapp3.1\argusTech.DTO.pdb
+C:\Users\acarm\source\repos\argusTech\argusTech.DTO\obj\Debug\netcoreapp3.1\argusTech.DTO.csprojAssemblyReference.cache
+C:\Users\acarm\source\repos\argusTech\argusTech.DTO\obj\Debug\netcoreapp3.1\argusTech.DTO.AssemblyInfoInputs.cache
+C:\Users\acarm\source\repos\argusTech\argusTech.DTO\obj\Debug\netcoreapp3.1\argusTech.DTO.AssemblyInfo.cs
+C:\Users\acarm\source\repos\argusTech\argusTech.DTO\obj\Debug\netcoreapp3.1\argusTech.DTO.csproj.CoreCompileInputs.cache
+C:\Users\acarm\source\repos\argusTech\argusTech.DTO\obj\Debug\netcoreapp3.1\argusTech.DTO.dll
+C:\Users\acarm\source\repos\argusTech\argusTech.DTO\obj\Debug\netcoreapp3.1\argusTech.DTO.pdb

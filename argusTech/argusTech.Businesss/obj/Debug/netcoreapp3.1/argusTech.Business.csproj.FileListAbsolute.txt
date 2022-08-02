@@ -1,0 +1,16 @@
+C:\Users\acarm\source\repos\argusTech\argusTech.Businesss\bin\Debug\netcoreapp3.1\argusTech.Business.deps.json
+C:\Users\acarm\source\repos\argusTech\argusTech.Businesss\bin\Debug\netcoreapp3.1\argusTech.Business.dll
+C:\Users\acarm\source\repos\argusTech\argusTech.Businesss\bin\Debug\netcoreapp3.1\argusTech.Business.pdb
+C:\Users\acarm\source\repos\argusTech\argusTech.Businesss\bin\Debug\netcoreapp3.1\argusTech.DataAccess.dll
+C:\Users\acarm\source\repos\argusTech\argusTech.Businesss\bin\Debug\netcoreapp3.1\argusTech.Entities.dll
+C:\Users\acarm\source\repos\argusTech\argusTech.Businesss\bin\Debug\netcoreapp3.1\argusTech.DataAccess.pdb
+C:\Users\acarm\source\repos\argusTech\argusTech.Businesss\bin\Debug\netcoreapp3.1\argusTech.Entities.pdb
+C:\Users\acarm\source\repos\argusTech\argusTech.Businesss\obj\Debug\netcoreapp3.1\argusTech.Business.csprojAssemblyReference.cache
+C:\Users\acarm\source\repos\argusTech\argusTech.Businesss\obj\Debug\netcoreapp3.1\argusTech.Business.AssemblyInfoInputs.cache
+C:\Users\acarm\source\repos\argusTech\argusTech.Businesss\obj\Debug\netcoreapp3.1\argusTech.Business.AssemblyInfo.cs
+C:\Users\acarm\source\repos\argusTech\argusTech.Businesss\obj\Debug\netcoreapp3.1\argusTech.Business.csproj.CopyComplete
+C:\Users\acarm\source\repos\argusTech\argusTech.Businesss\obj\Debug\netcoreapp3.1\argusTech.Business.dll
+C:\Users\acarm\source\repos\argusTech\argusTech.Businesss\obj\Debug\netcoreapp3.1\argusTech.Business.pdb
+C:\Users\acarm\source\repos\argusTech\argusTech.Businesss\obj\Debug\netcoreapp3.1\argusTech.Business.csproj.CoreCompileInputs.cache
+C:\Users\acarm\source\repos\argusTech\argusTech.Businesss\bin\Debug\netcoreapp3.1\argusTech.DTO.dll
+C:\Users\acarm\source\repos\argusTech\argusTech.Businesss\bin\Debug\netcoreapp3.1\argusTech.DTO.pdb

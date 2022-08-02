@@ -1,0 +1,9 @@
+C:\Users\acarm\source\repos\argusTech\argusTech.Entities\bin\Debug\netcoreapp3.1\argusTech.Entities.deps.json
+C:\Users\acarm\source\repos\argusTech\argusTech.Entities\bin\Debug\netcoreapp3.1\argusTech.Entities.dll
+C:\Users\acarm\source\repos\argusTech\argusTech.Entities\bin\Debug\netcoreapp3.1\argusTech.Entities.pdb
+C:\Users\acarm\source\repos\argusTech\argusTech.Entities\obj\Debug\netcoreapp3.1\argusTech.Entities.csprojAssemblyReference.cache
+C:\Users\acarm\source\repos\argusTech\argusTech.Entities\obj\Debug\netcoreapp3.1\argusTech.Entities.AssemblyInfoInputs.cache
+C:\Users\acarm\source\repos\argusTech\argusTech.Entities\obj\Debug\netcoreapp3.1\argusTech.Entities.AssemblyInfo.cs
+C:\Users\acarm\source\repos\argusTech\argusTech.Entities\obj\Debug\netcoreapp3.1\argusTech.Entities.csproj.CoreCompileInputs.cache
+C:\Users\acarm\source\repos\argusTech\argusTech.Entities\obj\Debug\netcoreapp3.1\argusTech.Entities.dll
+C:\Users\acarm\source\repos\argusTech\argusTech.Entities\obj\Debug\netcoreapp3.1\argusTech.Entities.pdb

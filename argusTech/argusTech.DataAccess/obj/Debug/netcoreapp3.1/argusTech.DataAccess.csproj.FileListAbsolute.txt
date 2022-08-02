@@ -1,0 +1,15 @@
+C:\Users\acarm\source\repos\argusTech\argusTech.DataAccess\bin\Debug\netcoreapp3.1\argusTech.DataAccess.deps.json
+C:\Users\acarm\source\repos\argusTech\argusTech.DataAccess\bin\Debug\netcoreapp3.1\argusTech.DataAccess.runtimeconfig.json
+C:\Users\acarm\source\repos\argusTech\argusTech.DataAccess\bin\Debug\netcoreapp3.1\argusTech.DataAccess.runtimeconfig.dev.json
+C:\Users\acarm\source\repos\argusTech\argusTech.DataAccess\bin\Debug\netcoreapp3.1\argusTech.DataAccess.dll
+C:\Users\acarm\source\repos\argusTech\argusTech.DataAccess\bin\Debug\netcoreapp3.1\argusTech.DataAccess.pdb
+C:\Users\acarm\source\repos\argusTech\argusTech.DataAccess\bin\Debug\netcoreapp3.1\argusTech.Entities.dll
+C:\Users\acarm\source\repos\argusTech\argusTech.DataAccess\bin\Debug\netcoreapp3.1\argusTech.Entities.pdb
+C:\Users\acarm\source\repos\argusTech\argusTech.DataAccess\obj\Debug\netcoreapp3.1\argusTech.DataAccess.csprojAssemblyReference.cache
+C:\Users\acarm\source\repos\argusTech\argusTech.DataAccess\obj\Debug\netcoreapp3.1\argusTech.DataAccess.AssemblyInfoInputs.cache
+C:\Users\acarm\source\repos\argusTech\argusTech.DataAccess\obj\Debug\netcoreapp3.1\argusTech.DataAccess.AssemblyInfo.cs
+C:\Users\acarm\source\repos\argusTech\argusTech.DataAccess\obj\Debug\netcoreapp3.1\argusTech.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\acarm\source\repos\argusTech\argusTech.DataAccess\obj\Debug\netcoreapp3.1\argusTech.DataAccess.csproj.CopyComplete
+C:\Users\acarm\source\repos\argusTech\argusTech.DataAccess\obj\Debug\netcoreapp3.1\argusTech.DataAccess.dll
+C:\Users\acarm\source\repos\argusTech\argusTech.DataAccess\obj\Debug\netcoreapp3.1\argusTech.DataAccess.pdb
+C:\Users\acarm\source\repos\argusTech\argusTech.DataAccess\obj\Debug\netcoreapp3.1\argusTech.DataAccess.genruntimeconfig.cache
